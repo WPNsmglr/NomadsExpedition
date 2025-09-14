@@ -1,0 +1,33 @@
+{
+  "Name": "",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_Stick",
+      "Count": 15,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_Cloth",
+      "Count": 5,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_Line",
+      "Count": 2,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_ShelterRoll",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 5,
+  "CraftingAudio": "Play_CraftingCloth",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

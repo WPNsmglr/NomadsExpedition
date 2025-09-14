@@ -1,0 +1,39 @@
+{
+  "ModCharcoalComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_Sextant",
+    "DescriptionLocalizatonId": "GAMEPLAY_SextantDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.35,
+    "DaysToDecay": 1000,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Tool",
+    "PickUpAudio": "Play_SndInvKnife",
+    "PutBackAudio": "Play_SndInvKnife",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_SndInvKnifeBreak",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.3,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "SurveyGameMinutes": 10.0,
+    "SurveyRealSeconds": 8.0,
+    "SurveySkillExtendedHours": 0.0,
+    "SurveyLoopAudio": ""
+  }
+}

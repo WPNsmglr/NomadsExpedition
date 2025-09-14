@@ -1,0 +1,30 @@
+{
+  "Name": "",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_LeatherHideDried",
+      "Count": 2,
+      "Units": "Count"
+    },
+    {
+      "Item": "GEAR_Line",
+      "Count": 2,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "GEAR_SewingKit",
+  "OptionalTools": [
+    "GEAR_HookAndLine"
+  ],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": true,
+  "CraftedResult": "GEAR_DeerSling2",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 240,
+  "CraftingAudio": "Play_RepairingLeatherHide",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

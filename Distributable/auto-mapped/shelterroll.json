@@ -1,0 +1,50 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_ShelterRoll",
+    "DescriptionLocalizatonId": "GAMEPLAY_ShelterRollDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 2.2,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Random",
+    "InventoryCategory": "Material",
+    "PickUpAudio": "Play_SndTechnicalBackpackPickup",
+    "PutBackAudio": "",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_HarvestingWoodSmall",
+    "Minutes": 1,
+    "YieldCounts": [
+      15,
+      5,
+      2
+    ],
+    "YieldNames": [
+      "GEAR_Stick",
+      "GEAR_Cloth",
+      "GEAR_Line"
+    ],
+    "RequiredToolNames": []
+  }
+}
